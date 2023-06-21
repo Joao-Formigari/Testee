@@ -2,7 +2,7 @@ name: Twitter Webscraping
 
 on:
   schedule:
-    - cron: "0 * * * *" # Every hour
+    - cron: "11 * * * *" # Every hour
 
 jobs:
   scrape:
