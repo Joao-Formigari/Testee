@@ -1,4 +1,4 @@
-name: Twitter Webscraping
+name: Webscraping
 
 on:
   schedule:
